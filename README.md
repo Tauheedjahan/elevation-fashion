@@ -27,14 +27,6 @@ Designed to showcase high-end fashion collections and products with smooth navig
 
 ---
 
-## Screenshots
-> Replace these links with your own screenshots of the project
-
-![Home Page](https://via.placeholder.com/1200x600.png?text=Home+Page)  
-![Product Page](https://via.placeholder.com/1200x600.png?text=Product+Page)  
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -42,7 +34,5 @@ Designed to showcase high-end fashion collections and products with smooth navig
 
 ### Run Locally
 ```bash
-git clone https://github.com/Tauheedjahan/elevation-fashion.git
-cd elevation-fashion
 npm install
 npm run dev
