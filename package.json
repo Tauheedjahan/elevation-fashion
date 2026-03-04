@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npx vite",
-    "build": "npm run build",
-    "preview": "npx vite preview"
-  },
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
   "dependencies": {
     "framer-motion": "^12.29.2",
     "lucide-react": "^0.563.0",
